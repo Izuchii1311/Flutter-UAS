@@ -1,0 +1,4 @@
+#Mon Jun 26 13:12:08 WIB 2023
+base.0=C\:\\Flutter\\new Project\\clothes_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
